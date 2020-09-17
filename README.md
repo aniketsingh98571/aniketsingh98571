@@ -1,13 +1,15 @@
-
-# WELCOME TO MY PROFILE ✔😀😻🥇✨ 👋
-## 🔭 I’m currently working on Web Development.
-## 🌱 I’m currently learning Javascript.
-## 👯 I’m looking to collaborate on Web Development.
-## 🤔 I’m looking for help with Web Design.
-## 💬 Ask me about Web Development or Any Tech related stuff.
-## 📫 How to reach me: [1.Youtube-@TechTrends](https://www.youtube.com/channel/UCzsA4W47OzXmExYixkWUj3Q?view_as=subscriber)<br>  [2.Twitter-@anikets](https://twitter.com/anikets63437544)   <br>  [3.Linkedin-@Aniket Singh](https://www.linkedin.com/in/aniket-singh-968687199/) <br> [4.Facebook-@TechTrends](https://www.facebook.com/thor98571) <br> [5.Instagram-@TechTrends](https://www.instagram.com/techtrends123/?hl=en)
- <img src="https://github-readme-stats.vercel.app/api?username=aniketsingh98571&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsingh98571&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
- <img src="https://github.com/aniketsingh98571/Web_Development/blob/master/Welcome%20to%20the%20Class%20of%20Web%20Development.png">
- 
+<img src="https://github.com/aniketsingh98571/Web_Development/blob/master/canva.png" alt="canva-img">
+<h2 align='center'>WELCOME TO MY PROFILE 🥇✨👏😃💻🖥🖱 </h2>
+ <p   align='center'>My name is Aniket Singh,I am a Computer Science student at [Sandip Institute of Technology and Research Center](https://www.sitrc.sandipfoundation.org/) .My Personal area of Interest is Web Development 💻.I am a Tech Enthusiast as well as a person who loves to teach his fellow friends about the new trending technologies.My hobbies are reading lots of ebooks 🧓📖📙📗📔 ,outdoor games ⛹️‍♀️🤾‍♂️🚴‍♀️🏋️‍♂️ and coding 👨‍💻.
+</p>
+<img height='500' width='500' src="https://github.com/aniketsingh98571/Web_Development/blob/master/programming.gif">
+ <h3 align='center'>TECH STACK
+<p align='center'>
+ <img src="https://img.shields.io/badge/C-Proficient-yellow">
+ <img src="https://img.shields.io/badge/PYTHON-Intermediate-orange">
+ <img src="https://img.shields.io/badge/JAVA-Intermediate-blue">
+ <img src="https://img.shields.io/badge/C%2B%2B-Proficient-red">
+ <img src="https://img.shields.io/badge/HTML-Proficient-brightgreen">
+ <img src="https://img.shields.io/badge/CSS-Intermediate-green">
+ <img src="https://img.shields.io/badge/JAVASCRIPT-Beginner-red">
+ </p>
