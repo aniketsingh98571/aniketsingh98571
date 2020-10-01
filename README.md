@@ -1,9 +1,9 @@
-<img src="https://github.com/aniketsingh98571/Web_Development/blob/master/canva.png" alt="canva-img">
+<img src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/canva.png">
 <h1 align='center' >WELCOME TO MY PROFILE 🥇✨👏😃💻🖥🖱 </h2>
  <p   align='center'>My name is Aniket Singh,I am a Computer Science student at Sandip Institute of Technology and Research Center.My Personal area of Interest is Web Development 💻.I am a Tech Enthusiast as well as a person who loves to teach his fellow friends about the new trending technologies.My hobbies are reading lots of ebooks 🧓📖📙📗📔 ,outdoor games ⛹️‍♀️🤾‍♂️🚴‍♀️🏋️‍♂️ and coding 👨‍💻.
 </p>
 <p align='center'>
-<img height='500' width='500' align='center' src="https://github.com/aniketsingh98571/Web_Development/blob/master/programming.gif"></p>
+<img height='500' width='500' align='center' src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/programming.gif"></p>
  <h2 align='center'>TECH STACK</h3>
 <p align='center'>
  <img src="https://img.shields.io/badge/C-Proficient-yellow">
