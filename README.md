@@ -21,7 +21,9 @@
    <a href="https://www.youtube.com/channel/UCzsA4W47OzXmExYixkWUj3Q?view_as=subscriber"><img src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/youtube.png"></a>
    <a href="https://github.com/aniketsingh98571"><img src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/github-image.png"></a>
    <a href="https://www.instagram.com/techtrends123/?hl=en"><img src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/instagram-sketched.png"></a>
-  
+  <a href="https://dev.to/aniketsingh98571">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aniket Singh's DEV Profile" height="40" width="40">
+</a>
   </p>
   <h2 align='center'>STATS</h3>
  <p align='center'>
