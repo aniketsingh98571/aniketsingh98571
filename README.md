@@ -16,11 +16,11 @@
  </p>
 <h2 align='center'>SOCIAL HANDLES</h3>
  <p align='center'>
-  <a  href="https://twitter.com/anikets63437544"><img src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/twitter.png"></a>
-  <a href="https://www.linkedin.com/in/aniket-singh-968687199/"><img src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/linkedin.png"</a>
-   <a href="https://www.youtube.com/channel/UCzsA4W47OzXmExYixkWUj3Q?view_as=subscriber"><img src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/youtube.png"></a>
-   <a href="https://github.com/aniketsingh98571"><img src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/github-image.png"></a>
-   <a href="https://www.instagram.com/techtrends123/?hl=en"><img src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/instagram-sketched.png"></a>
+  <a  href="https://twitter.com/anikets63437544"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/twitter.jpg" height=70 width=70></a>
+  <a href="https://www.linkedin.com/in/aniket-singh-968687199/"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/linkedin.png" height=70 width=70></a>
+   <a href="https://www.youtube.com/channel/UCzsA4W47OzXmExYixkWUj3Q?view_as=subscriber"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/youtube.png" height=70 width=70></a>
+   <a href="https://github.com/aniketsingh98571"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/github.png" height=70 width=70></a>
+   <a href="https://www.instagram.com/techtrends123/?hl=en"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/instagram.png" height=70 width=70></a>
   <a href="https://dev.to/aniketsingh98571">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aniket Singh's DEV Profile" height="40" width="40">
 </a>
