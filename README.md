@@ -2,6 +2,7 @@
 <h1 align='center' >WELCOME TO MY PROFILE 🥇✨👏😃💻🖥🖱 </h2>
  <p   align='center'>My name is Aniket Singh,I am a Computer Science student at Sandip Institute of Technology and Research Center.My Personal area of Interest is Web Development 💻.I am a Tech Enthusiast as well as a person who loves to teach his fellow friends about the new trending technologies.My hobbies are reading lots of ebooks 🧓📖📙📗📔 ,outdoor games ⛹️‍♀️🤾‍♂️🚴‍♀️🏋️‍♂️ and coding 👨‍💻.
 </p>
+
 <p align='center'>
 <img height='500' width='500' align='center' src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/programming.gif"></p>
  <h2 align='center'>TECH STACK</h3>
@@ -13,6 +14,7 @@
  <img src="https://img.shields.io/badge/HTML-Proficient-brightgreen">
  <img src="https://img.shields.io/badge/CSS-Intermediate-green">
  <img src="https://img.shields.io/badge/JAVASCRIPT-Beginner-red">
+ <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aniketsingh98571&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  </p>
 <h2 align='center'>SOCIAL HANDLES</h3>
  <p align='center'>
