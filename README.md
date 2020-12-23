@@ -16,6 +16,13 @@
  <img src="https://img.shields.io/badge/JAVASCRIPT-Beginner-red">
  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aniketsingh98571&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  </p>
+  <h2 align='center'>👨‍💻TECH STACK Currently Working on👨‍💻</h3>
+<p align='center'>
+ <img src="https://img.shields.io/badge/Nodejs-Backend-yellowgreen">
+ <img src="https://img.shields.io/badge/Reactjs-frontend-red">
+ <img src="https://img.shields.io/badge/API-Platform-orange">
+ 
+ </p>
 <h2 align='center'>SOCIAL HANDLES</h3>
  <p align='center'>
   <a  href="https://twitter.com/anikets63437544"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/twitter.jpg" height=70 width=70></a>
