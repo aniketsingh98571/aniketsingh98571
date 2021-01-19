@@ -39,4 +39,10 @@
  <img src="https://github-readme-stats.vercel.app/api?username=aniketsingh98571&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsingh98571&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
-
+<p align="center">
+<br />
+<h3 align="center"> 📈 My Streak Stats: </h3>
+<p align ="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsingh98571&theme=chartreuse-dark" alt="Streak Stats" />
+</p>
+</p>
