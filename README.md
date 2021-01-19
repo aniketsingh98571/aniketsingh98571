@@ -30,9 +30,9 @@
    <a href="https://www.youtube.com/channel/UCzsA4W47OzXmExYixkWUj3Q?view_as=subscriber"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/youtube.png" height=70 width=70></a>
    <a href="https://github.com/aniketsingh98571"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/github.png" height=70 width=70></a>
    <a href="https://www.instagram.com/techtrends123/?hl=en"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/instagram.png" height=70 width=70></a>
-  <a href="https://dev.to/aniketsingh98571">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aniket Singh's DEV Profile" height="40" width="40">
-</a>
+  <a href="https://techno-dict.hashnode.dev/"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/hash%20brand-icon.jpg" height=70 width=70></a>
+ <a href="https://dev.to/aniketsingh98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/dev.png" height=70 width=70></a>
+  <a href="https://medium.com/@aniket98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/medium.png" height=70 width=70></a>
   </p>
   <h2 align='center'>STATS</h3>
  <p align='center'>
