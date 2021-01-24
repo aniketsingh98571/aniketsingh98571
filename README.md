@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/canva.png">
+<img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Techno-dict.gif">
 <h1 align='center' >WELCOME TO MY PROFILE 🥇✨👏😃💻🖥🖱 </h2>
  <p   align='center'>My name is Aniket Singh,I am a Computer Science student at Sandip Institute of Technology and Research Center.My Personal area of Interest is Web Development 💻.I am a Tech Enthusiast as well as a person who loves to teach his fellow friends about the new trending technologies.My hobbies are reading lots of ebooks 🧓📖📙📗📔 ,outdoor games ⛹️‍♀️🤾‍♂️🚴‍♀️🏋️‍♂️ and coding 👨‍💻.
 </p>
@@ -14,6 +14,7 @@
  <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/python.png" height=70 width=70>
  <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/html.png" height=70 width=70>
  <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/css.png" height=70 width=70>
+ <br>
  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aniketsingh98571&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  </p>
   <h2 align='center'>👨‍💻TECH STACK Currently Working on👨‍💻</h3>
