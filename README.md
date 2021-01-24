@@ -7,20 +7,20 @@
 <img height='500' width='500' align='center' src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/programming.gif"></p>
  <h2 align='center'>TECH STACK</h3>
 <p align='center'>
- <img src="https://img.shields.io/badge/C-Proficient-yellow">
- <img src="https://img.shields.io/badge/PYTHON-Intermediate-orange">
- <img src="https://img.shields.io/badge/JAVA-Intermediate-blue">
- <img src="https://img.shields.io/badge/C%2B%2B-Proficient-red">
- <img src="https://img.shields.io/badge/HTML-Proficient-brightgreen">
- <img src="https://img.shields.io/badge/CSS-Intermediate-green">
- <img src="https://img.shields.io/badge/JAVASCRIPT-Beginner-red">
+ <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/C.png" height=70 width=70>
+ <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/C%2B%2B.png" height=70 width=70>
+ <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/java.png" height=70 width=70>
+ <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/js.jpg"  height=70 width=70>
+ <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/python.png" height=70 width=70>
+ <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/html.png" height=70 width=70>
+ <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/css.png" height=70 width=70>
  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aniketsingh98571&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  </p>
   <h2 align='center'>👨‍💻TECH STACK Currently Working on👨‍💻</h3>
 <p align='center'>
- <img src="https://img.shields.io/badge/Nodejs-Backend-yellowgreen">
- <img src="https://img.shields.io/badge/Reactjs-frontend-red">
- <img src="https://img.shields.io/badge/API-Platform-orange">
+ <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/nodejs.jpg" height=70 width=70>
+ <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/reactjs.png" height=70 width=70>
+ <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/api.png" height=70 width=70>
  
  </p>
 <h2 align='center'>SOCIAL HANDLES</h3>
