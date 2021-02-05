@@ -1,6 +1,12 @@
 <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Techno-dict.gif">
 <h1 align='center' >WELCOME TO MY PROFILE 🥇✨👏😃💻🖥🖱 </h2>
- <p   align='center'>My name is Aniket Singh,I am a Computer Science student at Sandip Institute of Technology and Research Center.My Personal area of Interest is Web Development 💻.I am a Tech Enthusiast as well as a person who loves to teach his fellow friends about the new trending technologies.My hobbies are reading lots of ebooks 🧓📖📙📗📔 ,outdoor games ⛹️‍♀️🤾‍♂️🚴‍♀️🏋️‍♂️ and coding 👨‍💻.
+ <p   align='center'>My name is Aniket Singh, I am a Computer Science student at Sandip Institute of Technology and Research Center. Helping student community in technical,
+ personal and all the  possible ways is my everyday job. Web Development, UI Designing, Blogging is my passion. Day starts at 7am and ends at 12am.
+</p>
+
+<p align='center'>
+<a href="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Resume.pdf">Resume</a>
+
 </p>
 
 <p align='center'>
@@ -42,7 +48,7 @@
  </table>
 <h2 align='center'>SOCIAL HANDLES</h3>
  <p align='center'>
-  <a  href="https://twitter.com/anikets63437544"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/twitter.jpg" height=70 width=70></a>
+  <a  href="https://twitter.com/Techno_Dict"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/twitter.jpg" height=70 width=70></a>
   <a href="https://www.linkedin.com/in/aniket-singh-968687199/"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/linkedin.png" height=70 width=70></a>
    <a href="https://www.youtube.com/channel/UCzsA4W47OzXmExYixkWUj3Q?view_as=subscriber"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/youtube.png" height=70 width=70></a>
    <a href="https://github.com/aniketsingh98571"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/github.png" height=70 width=70></a>
