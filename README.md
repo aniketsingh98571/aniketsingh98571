@@ -33,15 +33,15 @@
  <h2 align='center'>Open-Source Programs Completed</h2>
  <table>
  <tr>
-<td><a href="https://hakincodes.tech/"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/hackincodes.jpg" height=300 width=400></a></td>
+<td><a href="https://hakincodes.tech/"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/hackincodes.jpg" height=300 width=800></a></td>
  <td><b>Hackincodes: </b>It was a 3 month long open-source program majorly for Indian students, in this program I have contributed to https://github.com/TesseractCoding/NeoAlgo/pull/944.</td>
 </tr>
  <tr>
-  <td><a href="http://swoc.tech/"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/swoc.png" height=300 width=400></a></td>
+  <td><a href="http://swoc.tech/"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/swoc.png" height=300 width=800></a></td>
   <td><b>SWoC</b>: It was a 3 month long open-source program in which I have contributed to https://github.com/HITK-TECH-Community/Community-Website/pull/95.</td>
   </tr>
   <tr>
-  <td><a href="https://hacktoberfest.digitalocean.com/"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Hacktoberfest_20.jpg" height=300 width=400></a></td>
+  <td><a href="https://hacktoberfest.digitalocean.com/"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Hacktoberfest_20.jpg" height=300 width=800></a></td>
   <td><b>Hacktoberfest: </b>Every year in October hacktoberfest is organized by digital ocean and some parent companies to support and increase awareness about open-source
    development. In hacktoberfest 2020, I have contributed to https://github.com/zero-to-mastery/Keiko-Corp/pull/34 and many more.</td>
   </tr>
