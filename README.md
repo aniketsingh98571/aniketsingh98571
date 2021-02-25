@@ -68,6 +68,6 @@
 <p align ="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsingh98571&theme=chartreuse-dark" alt="Streak Stats" />
 </p>
-
+<figure><img src="https://wakatime.com/share/@aniketsingh98571/955957ef-6f26-4e77-a5ea-b503cfdb928d.svg"></figure>
 
 
