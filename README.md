@@ -69,5 +69,5 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsingh98571&theme=chartreuse-dark" alt="Streak Stats" />
 </p>
 <figure><img src="https://wakatime.com/share/@aniketsingh98571/955957ef-6f26-4e77-a5ea-b503cfdb928d.svg"></figure>
-
+<img src="https://metrics.lecoq.io/aniketsingh98571?template=classic&activity=1&lines=1&isocalendar=1&stars=1&tweets=1&posts=1&followup=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&isocalendar.duration=full-year&stars.limit=2&posts.source=dev.to&posts.limit=2&posts.user=aniketsingh98571&tweets.limit=2&tweets.user=Techno_Dict&config.timezone=Asia%2FCalcutta">
 
