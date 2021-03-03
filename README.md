@@ -45,6 +45,10 @@
   <td><b>Hacktoberfest: </b>Every year in October hacktoberfest is organized by digital ocean and some parent companies to support and increase awareness about open-source
    development. In hacktoberfest 2020, I have contributed to https://github.com/zero-to-mastery/Keiko-Corp/pull/34 and many more.</td>
   </tr>
+ <tr>
+  <td><a href="https://gssoc.girlscript.tech/index.html"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/GSSoC.jpg" height=300 width=800></a></td>
+  <td><b>GSSoC: </b>It is 3-month long Open Source Program by GirlScript foundation to help beginners to get acquainted with open source development. Till now I have contributed to https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/pull/45, https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/pull/49,https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch/pull/60 and 2 more...</td>
+  </tr>
  </table>
 <h2 align='center'>SOCIAL HANDLES</h3>
  <p align='center'>
