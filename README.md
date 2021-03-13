@@ -70,6 +70,8 @@
 <br />
 <h3 align="center"> 📈 My Streak Stats: </h3>
 <p align ="center">
+ 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsingh98571&theme=chartreuse-dark" alt="Streak Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aniketsingh98571&count_private=true&theme=radical&v=2" alt="aniket's wakatime stats">
 </p>
 <figure><img src="https://wakatime.com/share/@aniketsingh98571/955957ef-6f26-4e77-a5ea-b503cfdb928d.svg"></figure>
