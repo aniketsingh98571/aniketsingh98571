@@ -30,7 +30,7 @@
  <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/api.png" height=70 width=70>
  
  </p>
- <h2 align='center'>Open-Source Programs Completed</h2>
+ <h2 align='center'>Open-Source Programs</h2>
  <table>
  <tr>
 <td><a href="https://hakincodes.tech/"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/hackincodes.jpg" height=300 width=800></a></td>
