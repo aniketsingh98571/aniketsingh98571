@@ -1,3 +1,4 @@
+<h1 style={color:red;}>Exam's Up 🤦‍♂️ Contributions Down😢:</h1>
 <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Techno-dict.gif">
 <h1 align='center' >WELCOME TO MY PROFILE 🥇✨👏😃💻🖥🖱 </h2>
  <p   align='center'>My name is Aniket Singh, I am a Computer Science student at Sandip Institute of Technology and Research Center. Helping student community in technical,
