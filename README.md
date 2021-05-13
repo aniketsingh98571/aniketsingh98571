@@ -1,8 +1,8 @@
-<h1 style={color:red;}>Exam's Up 🤦‍♂️ Contributions Down😢:</h1>
 <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Techno-dict.gif">
 <h1 align='center' >WELCOME TO MY PROFILE 🥇✨👏😃💻🖥🖱 </h2>
  <p   align='center'>My name is Aniket Singh, I am a Computer Science student at Sandip Institute of Technology and Research Center. Helping student community in technical,
- personal and all the  possible ways is my everyday job. Web Development, UI Designing, Blogging is my passion. Day starts at 7am and ends at 12am.
+ personal and all the  possible ways is my everyday job. Web Development, UI Designing, Blogging and open source contribution are my passion. Day starts at 7am and ends at 12am.
+ Love to hangout on twitter with other developers. Keeping an eye on Discord and slack chats to help other peers. 
 </p>
 
 <p align='center'>
