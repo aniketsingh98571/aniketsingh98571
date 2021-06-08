@@ -5,7 +5,7 @@
  Love to hangout on twitter with other developers. Keeping an eye on Discord and slack chats to help other peers. 
 </p>
 
-Check some of my UI/UX designs at  [Design](https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Design.md)
+Checkout some of my UI/UX designs at  [Design](https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Design.md)
 
 My Work Experiene and Projects at [Resume](https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Resume.pdf)
 
