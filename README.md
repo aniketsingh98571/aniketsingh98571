@@ -1,13 +1,14 @@
 <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Techno-dict.gif">
 <h1 align='center' >WELCOME TO MY PROFILE 🥇✨👏😃💻🖥🖱 </h2>
- <p   align='center'>My name is Aniket Singh, I am a Computer Science student at Sandip Institute of Technology and Research Center. Helping student community in technical,
+ <p   align='center'>My name is Aniket Singh, I am a Computer Engineering student at Sandip Institute of Technology and Research Center. Helping student community in technical,
  in-personal and all the  possible ways is my everyday job. Web Development, UI/UX, Blogging and open source contribution are my passion. Day starts at 7am and ends at 12am.
  Love to hangout on twitter with other developers. Keeping an eye on Discord and slack chats to help other peers. 
 </p>
 
-Checkout some of my UI/UX designs at  [Design](https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Design.md)
+Checkout some of my UI/UX designs at  [Design](https://www.figma.com/@aniketsingh)
 
-My Work Experiene and Projects at [Resume](https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Resume.pdf)
+My Work Experience - [Experience](https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Experience.md)
+
 
 <p align='center'>
 <img height='500' width='500' align='center' src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/programming.gif"></p>
