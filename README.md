@@ -5,9 +5,6 @@
  Love to hangout on twitter with other developers. Keeping an eye on Discord and slack chats to help other peers. 
 </p>
 
-Checkout some of my UI/UX designs at  [Design](https://www.figma.com/@aniketsingh)
-
-My Work Experience - [Experience](https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Experience.md)
 
 
 <p align='center'>
