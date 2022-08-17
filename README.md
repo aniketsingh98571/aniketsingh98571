@@ -1,9 +1,13 @@
 <img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Techno-dict.gif">
 <h1 align='center' >WELCOME TO MY PROFILE 🥇✨👏😃💻🖥🖱 </h2>
- <p   align='center'>My name is Aniket Singh, I am a Computer Engineering student at Sandip Institute of Technology and Research Center. Helping student community in technical,
- in-personal and all the  possible ways is my everyday job. Web Development, UI/UX, Blogging and open source contribution are my passion. Day starts at 7am and ends at 12am.
- Love to hangout on twitter with other developers. Keeping an eye on Discord and slack chats to help other peers. 
+ <p   align='center'>Hey there, My name is Aniket Singh. I am a Computer Science Graduate from Sandip Institute of Technology and Research Center. Currently, I am working as a Software Development Engineer at WebOasis, my role at the organization involves developing the frontend of applications, integrating third-party API in the frontend, collaborating with designer and backend developer, and many more. During work, I always make sure to follow the best coding practices and write optimized code. My passion for technology encourages me to learn something new every day and look for blogs and tutorials to improve my code more.
 </p>
+<p align='center'>
+Besides these technical things, I love mentoring students in tech and provide them all necessary resources
+           in order to excel in their fields. I previously served as a GDSC Lead and Campus Leads of many organizations
+           which helped me to improve my communication and team building skills. I also took part in many open source 
+           programs by contributing to many open source projects which helped me to gain software engineering practises and fundamentals of git and GitHub.
+<p/>
 
 
 
