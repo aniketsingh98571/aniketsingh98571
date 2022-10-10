@@ -58,7 +58,7 @@ Besides these technical things, I love mentoring students in tech and provide th
   <a href="https://www.linkedin.com/in/aniket-singh-968687199/"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/linkedin.png" height=70 width=70></a>
    <a href="https://www.youtube.com/channel/UCzsA4W47OzXmExYixkWUj3Q?view_as=subscriber"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/youtube.png" height=70 width=70></a>
    <a href="https://github.com/aniketsingh98571"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/github.png" height=70 width=70></a>
-   <a href="https://www.instagram.com/techtrends123/?hl=en"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/instagram.png" height=70 width=70></a>
+   <a href="https://www.instagram.com/><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/instagram.png" height=70 width=70></a>
   <a href="https://techno-dict.hashnode.dev/"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/hash%20brand-icon.jpg" height=70 width=70></a>
  <a href="https://dev.to/aniketsingh98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/dev.png" height=70 width=70></a>
   <a href="https://medium.com/@aniket98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/medium.png" height=70 width=70></a>
