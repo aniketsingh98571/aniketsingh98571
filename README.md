@@ -54,7 +54,7 @@ Besides these technical things, I love mentoring students in tech and provide th
  </table>
 <h2 align='center'>SOCIAL HANDLES</h3>
  <p align='center'>
-  <a  href="https://twitter.com/Techno_Dict"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/twitter.jpg" height=70 width=70></a>
+  <a  href="https://twitter.com"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/twitter.jpg" height=70 width=70></a>
   <a href="https://www.linkedin.com/in/aniket-singh-968687199/"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/linkedin.png" height=70 width=70></a>
    <a href="https://www.youtube.com/channel/UCzsA4W47OzXmExYixkWUj3Q?view_as=subscriber"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/youtube.png" height=70 width=70></a>
    <a href="https://github.com/aniketsingh98571"><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/github.png" height=70 width=70></a>
