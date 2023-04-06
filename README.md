@@ -71,8 +71,8 @@
  </details>
   <h2 align='center'>STATS</h3>
  <p align='center'>
- <img src="https://github-readme-stats-ashy-rho-56.vercel.app/api?username=aniketsingh98571&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
- <img src="https://github-readme-stats-ashy-rho-56.vercel.app/api/top-langs?username=aniketsingh98571&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+ <img src="https://github-readme-stats-sahr.vercel.app/api?username=aniketsingh98571&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+ <img src="https://github-readme-stats-sahr.vercel.app/api/top-langs?username=aniketsingh98571&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 <p align="center">
 <br />
