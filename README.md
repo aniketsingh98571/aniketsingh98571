@@ -64,7 +64,7 @@
    <tr>
     <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/hackincodes.jpg" width="100px" height="auto" alt="hackincodes" title="Hackincodes"/></td>
     <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/swoc.png" width="100px" height="auto" alt="SwoC" title="Script Winter of Code"/></td>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Hacktoberfest_20.jpg" width="100px" height="auto" alt="Hacktoberfest" title"Hacktoberfest"/></td>
+    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Hacktoberfest_20.jpg" width="100px" height="auto" alt="Hacktoberfest" title="Hacktoberfest"/></td>
     <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/GSSoC.jpg" width="100px" height="auto" alt="GSSoC" title="Girlscript Summer of Code"/></td>
    </tr>
   </table>
