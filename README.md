@@ -1,4 +1,4 @@
-<img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Github%20Cover.gif">
+<img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Techno-dict.gif" alt="intro">
  <details open>
  <summary>
   Personal Information
@@ -56,46 +56,6 @@
     <td><span>Technical Writer at Nebula</span></td>
     <td><li>Blog on Data scrapping and LinkDB</li></td>
    </tr>
-  </table>
- </details>
- <details open>
-  <summary>Open Source Programs</summary>
-  <table>
-   <tr>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/hackincodes.jpg" width="100px" height="auto" alt="hackincodes" title="Hackincodes"/></td>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/swoc.png" width="100px" height="auto" alt="SwoC" title="Script Winter of Code"/></td>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Hacktoberfest_20.jpg" width="100px" height="auto" alt="Hacktoberfest" title="Hacktoberfest"/></td>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/GSSoC.jpg" width="100px" height="auto" alt="GSSoC" title="Girlscript Summer of Code"/></td>
-   </tr>
-  </table>
- </details>
- <details open>
-  <summary>My Tools</summary>
-  <table>
-     <tr>
-      <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/html.png" width="100px" height="auto" title="HTML" alt="HTML"/></td>
-      <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/css.png" width="100px" height="auto" title="CSS" alt="CSS"/></td>
-      <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/js.png" width="100px" height="auto" title="Javascript" alt="javascript"/></td>
-      <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/react.png" width="100px" height="auto" title="React.Js" alt="reactjs"/></td>
-   </tr>
-   <tr>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/gatsby.png" width="100px" height="auto" title="GatsBy.js" alt="gatsby"/></td>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/nodejs.png" width="100px" height="auto" title="NodeJs" alt="nodejs"/></td>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/mongodb.png" width="100px" height="auto" title="MongoDB" alt="mongodb"/></td>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/mysql.png" width="100px" height="auto" title="MySQL" alt="MySQL"/></td>
-   </tr>
-   <tr>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/C.png"  width="100px" height="auto" title="C" alt="C"/></td>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/cpp.png"  width="100px" height="auto" title="cpp" alt="cpp"/></td>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/python.jpeg"  width="100px" height="auto" title="python" alt="python"/></td>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/git.png"  width="100px" height="auto title="git" alt="git"/></td>
-   </tr>
-     <tr>
-     <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/figma.png" width="100px" height="auto" title="figma" alt="figma"/></td>
-     <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/canva.jpeg" width="100px" height="auto" title="canva" alt="canva"/></td>
-     <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/postman.png" width="100px" height="auto" title="postman" alt="postman"/></td>
-     <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/netlify.png" width="100px" height="auto" title="netlify" alt="netlify"/></td>
-     </tr>
   </table>
  </details>
      <details open>
