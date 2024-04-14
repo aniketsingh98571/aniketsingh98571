@@ -71,6 +71,15 @@
      <td><a href="https://medium.com/@aniket98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/medium.png" width="80px" height="auto" title="medium" alt="medium"/></a></td>
      <td><a href="https://techno-dict.hashnode.dev/"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/hashnode.png" width="80px" height="auto" alt="hashnode" title="hashnode"/></a></td>
      </tr>
+       <tr>
+     <td><a href="mailto:aniketsingh.career@gmail.com"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Gmail_Logo_512px.png" width="80px" height="auto" title="Gmail" alt="Gmail"/></a></td>
+     <td><a href="https://t.me/AniketSingh98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/telegram.512x512.png" width="80px" height="auto" title="Telegram" alt="Telegram"/></a></td>
+     <td><a href="https://discordapp.com/users/aniketsingh98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/discord-mark-blue.png" width="80px" height="auto" alt="discord" title="discord"/></a></td>
+     </tr>
+      <tr>
+     <td><a href="https://www.producthunt.com/@aniketsingh98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/product-hunt-logo-orange-240.jpg" width="80px" height="auto" title="Product Hunt" alt="Product Hunt"/></a></td>
+     <td><a href="https://peerlist.io/aniketsingh9857"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Peerlist.png" width="80px" height="auto" title="Peerlist" alt="Peerlist"/></a></td>
+     </tr>
      </table>
      </details>
   <h2 align='center'>STATS</h3>
