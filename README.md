@@ -12,7 +12,7 @@
      <tr>
      <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/office.png" alt="college" width="30px" height="auto"/></td>
      <td><span>Work</span></td>
-     <td>Software Development Engineer at Weboasis</span></td>
+     <td>Software Development Engineer 1 at Procedure</span></td>
     </tr>
  </table>
 </details>
