@@ -41,7 +41,7 @@ I’m the kind of person who:
 - Indexing, migrations, data modeling
 
 **Tooling**
-- Git, GitHub Actions
+- Git, Postman, Cursor, Claude, Chatgpt
 - ESLint, Prettier, testing tools
 
 I prefer fewer tools used well over many tools used poorly.
