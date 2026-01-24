@@ -1,98 +1,105 @@
-<img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Techno-dict.gif" alt="intro">
- <details open>
- <summary>
-  Personal Information
- </summary>
-   <table>
-    <tr>
-     <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/college.png" alt="college" width="30px" height="auto"/></td>
-     <td><span>Education</span></td>
-     <td><span>Bachelor of Engineering in Computer Engineering from Pune University</span></td>
-    </tr>
-     <tr>
-     <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/office.png" alt="college" width="30px" height="auto"/></td>
-     <td><span>Work</span></td>
-     <td>Software Development Engineer 1 at Procedure</span></td>
-    </tr>
- </table>
-</details>
-<details open>
- <summary>Community Work</summary>
- <table>
-  <tr>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/gdsc.png" alt="gdsc" width="40px" height="auto"/></td>
-   <td><span>GDSC Lead</span></td>
-   <td>
-    <li>Hosted 10+ sessions and workshops</li>
-    <li>500+ students joined our GDSC Community</li>
-    <li>We conducted sessions on various domains like App Development, DevOps, Machine Learning and Google Cloud.</li>
-   <td>
-  </tr>
-  <tr>
-   <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/scaler.jpeg" alt="scaler" width="40px" height="auto"/></td>
-   <td><span>Scaler Campus Lead<span></td>
-    <td>
-     <li>Conducted a coding competition at our college with the help of scaler academy.</li>
-     <li>We also conducted a scaler learning series on scaler's youtube channel</li>
-    </td>
-  </tr>
-    <tr>
-     <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/gdsc.png" alt="gdg" width="40px" height="auto"/></td>
-     <td><span>GDG Nashik Volunteer</span></td>
-     <td><li>Helping organizers of GDG Nashik in event planning and management</li></td>
-    </tr>
- </table>
- </details>
- <details open>
-  <summary>Technical Writing</summary>
-  <table>
-   <tr>
-   <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/writer.png" alt="writer" width="30px" height="auto"/></td>
-    <td><span>Technical Writer at EduAlgo</span></td>
-    <td><li>Blogs on Python, Open Source and Data Structures and Algorithms</li></td>
-   </tr>
-   <tr>
-    <td><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/writer.png" alt="writer" width="30px" height="auto"/></td>
-    <td><span>Technical Writer at Nebula</span></td>
-    <td><li>Blog on Data scrapping and LinkDB</li></td>
-   </tr>
-  </table>
- </details>
-     <details open>
-     <summary>Connect with me</summary>
-     <table>
-     <tr>
-     <td><a href="https://www.linkedin.com/in/aniketsingh98571/"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/linkedin.png" width="80px" height="auto" title="linkedin" alt="linkedin"/></a></td>
-     <td><a href="https://topmate.io/aniketsingh98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/topmate.jpeg" width="80px" height="auto" title="topmate" alt="topmate"/></a></td>
-     <td><a href="https://www.youtube.com/@techtrends688"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/youtube.png" width="80px" height="auto" title="youtube" alt="youtube"/></a></td>
-     </tr>
-     <tr>
-     <td><a href="https://dev.to/aniketsingh98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/dev.png" width="80px" height="auto" title="Dev.to" alt="dev.to"/></a></td>
-     <td><a href="https://medium.com/@aniket98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/medium.png" width="80px" height="auto" title="medium" alt="medium"/></a></td>
-     <td><a href="https://techno-dict.hashnode.dev/"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/hashnode.png" width="80px" height="auto" alt="hashnode" title="hashnode"/></a></td>
-     </tr>
-       <tr>
-     <td><a href="mailto:aniketsingh.career@gmail.com"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Gmail_Logo_512px.png" width="80px" height="auto" title="Gmail" alt="Gmail"/></a></td>
-     <td><a href="https://t.me/AniketSingh98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/telegram.512x512.png" width="80px" height="auto" title="Telegram" alt="Telegram"/></a></td>
-     <td><a href="https://discordapp.com/users/aniketsingh98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/discord-mark-blue.png" width="80px" height="auto" alt="discord" title="discord"/></a></td>
-     </tr>
-      <tr>
-     <td><a href="https://www.producthunt.com/@aniketsingh98571"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/product-hunt-logo-orange-240.jpg" width="80px" height="auto" title="Product Hunt" alt="Product Hunt"/></a></td>
-     <td><a href="https://peerlist.io/aniketsingh9857"><img src="https://github.com/aniketsingh98571/aniketsingh98571/blob/master/Peerlist.png" width="80px" height="auto" title="Peerlist" alt="Peerlist"/></a></td>
-     </tr>
-     </table>
-     </details>
-  <h2 align='center'>STATS</h3>
- <p align='center'>
- <img src="https://github-readme-stats-sahr.vercel.app/api?username=aniketsingh98571&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
- <img src="https://github-readme-stats-sahr.vercel.app/api/top-langs?username=aniketsingh98571&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-</p>
-<p align="center">
-<br />
-<h3 align="center"> 📈 My Streak Stats: </h3>
-<p align ="center">
- 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsingh98571&theme=chartreuse-dark" alt="Streak Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aniketsingh98571&count_private=true&theme=radical&v=2" alt="aniket's wakatime stats">
-</p>
-<figure><img src="https://wakatime.com/share/@aniketsingh98571/955957ef-6f26-4e77-a5ea-b503cfdb928d.svg"></figure>
+# Hey, I'm Aniket 👋
+
+Software Developer • 3+ years • Frontend, Backend & Cloud  
+Curious by default. Production-minded by habit.
+
+### 👨‍💻 About Me
+
+I'm a software developer with 3+ years of experience building and maintaining real-world systems across frontend, backend, and cloud.
+
+I enjoy:
+- Designing systems that are boring in production
+- Reading tech blogs, RFCs, and postmortems
+- Writing about what I learn so I understand it better
+- Exploring new domains, tools, and architectures
+
+I’m the kind of person who:
+- Reads docs before tutorials
+- Cares about *why* something works, not just *how*
+- Enjoys refactoring more than greenfield hype
+
+
+
+### 🧩 Tech I Work With
+
+**Frontend**
+- React, Next.js, TypeScript
+- Tailwind CSS, CSS Modules, Shadcn, MUI, Radix-UI
+- Accessibility and Performance
+
+**Backend**
+- Node.js, REST APIs
+- Auth, async flows, background jobs
+- Database design & query optimization
+
+**Cloud & DevOps**
+- AWS (EC2, Lambda, S3, CloudWatch, IAM)
+- Vercel, Netlify
+
+**Databases**
+- PostgreSQL, MySQL
+- Indexing, migrations, data modeling
+
+**Tooling**
+- Git, GitHub Actions
+- ESLint, Prettier, testing tools
+
+I prefer fewer tools used well over many tools used poorly.
+
+
+
+
+### 🧪 Currently Curious About
+
+- System design trade-offs in frontend-heavy apps
+- Performance bottlenecks in real production systems
+- AI tooling for developer productivity
+- Observability, logging, and failure analysis
+
+
+
+### ✍️ Writing & Knowledge Sharing
+
+I enjoy writing technical articles to:
+- Clarify my own understanding
+- Document learnings from real projects
+- Share practical insights (not tutorials rewritten from docs)
+
+Topics I like writing about:
+- Frontend architecture
+- Backend patterns
+- Cloud & infra decisions
+- Debugging stories and lessons learned
+- AI tooling
+
+
+
+### 🧠 Engineering Beliefs
+
+- Code is read more often than it’s written
+- Simple systems scale better than clever ones
+- If it’s not observable, it’s broken
+- Documentation is a feature
+- Learning never ships late
+
+
+
+### 🤝 Open To
+
+- Interesting engineering problems
+- Learning from strong teams
+- Technical writing collaborations
+- Deep-dive discussions on systems & architecture
+
+
+
+
+📫 Reach me:  
+- GitHub: @aniketsingh98571  
+- LinkedIn: https://www.linkedin.com/in/aniketsingh98571/
+- Twitter : https://x.com/Techno_Dict
+
+
+> Still learning. Always will be.
+
+
